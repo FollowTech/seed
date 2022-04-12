@@ -1,4 +1,4 @@
-package com.example.imusic
+package com.example.seed
 
 import org.junit.Test
 

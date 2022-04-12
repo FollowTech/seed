@@ -1,4 +1,4 @@
-package com.example.imusic.ui.main
+package com.example.seed.ui.main
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -6,7 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.imusic.R
+import com.example.seed.R
 
 class MainFragment : Fragment() {
 

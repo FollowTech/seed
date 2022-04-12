@@ -1,4 +1,4 @@
-package com.example.imusic.ui.main
+package com.example.seed.ui.main
 
 import androidx.lifecycle.ViewModel
 
