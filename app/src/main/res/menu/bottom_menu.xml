@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_main_drawer.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homepage"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/bottom_menu_homepage" />
+        <item
+            android:id="@+id/discover"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/bottom_menu_discover" />
+        <item
+            android:id="@+id/add"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/bottom_menu_add" />
+        <item
+            android:id="@+id/group"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/bottom_menu_group" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/bottom_menu_setting" />
+    </group>
+</menu>

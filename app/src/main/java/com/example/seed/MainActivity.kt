@@ -5,10 +5,6 @@ import android.os.Bundle
 import com.example.seed.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
-    
-    var toolBar:Int = 1
-
-    var pyc:Int = 2
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

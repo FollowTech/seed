@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">seed</string>
+    <string name="bottom_menu_homepage">首页</string>
+    <string name="bottom_menu_discover">发现</string>
+    <string name="bottom_menu_add">添加</string>
+    <string name="bottom_menu_group">圈子</string>
+    <string name="bottom_menu_setting">设置</string>
+    <string name="net_refresh">加载失败，请点击重试</string>
+    <string name="http">http://</string>
 </resources>
