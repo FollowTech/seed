@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.208" />
+        <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/drawable/ic_eye.xml" value="0.112" />
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/add_fragment.xml" value="0.1947463768115942" />
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/discover_fragment.xml" value="0.264" />
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/group_fragment.xml" value="0.1947463768115942" />
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/homepage_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/item_homepage.xml" value="0.225" />
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/main_activity.xml" value="0.1947463768115942" />
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/main_fragment.xml" value="0.1947463768115942" />
         <entry key="..\:/Users/PYC/AndroidStudioProjects/seed/app/src/main/res/layout/setting_fragment.xml" value="0.1947463768115942" />
